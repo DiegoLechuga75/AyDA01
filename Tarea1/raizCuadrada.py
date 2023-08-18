@@ -1,9 +1,9 @@
 def calcularRaizCuadrada(x):
 
     raiz = x
-    presicion = 10 ** (-10)
+    precision = 10 ** (-10)
     
-    while abs(x - raiz * raiz) > presicion:
+    while abs(x - raiz * raiz) > precision:
         raiz = (raiz + x / raiz) / 2
         
     return raiz
