@@ -8,4 +8,6 @@ def calcularRaizCuadrada(x):
         
     return raiz
 
-print(calcularRaizCuadrada(25))
+if __name__ == "__main__":
+
+    print(calcularRaizCuadrada(25))

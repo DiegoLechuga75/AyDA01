@@ -3,4 +3,6 @@ def obtenerFactorial (n):
         return 1
     return n * obtenerFactorial(n-1)
 
-print(obtenerFactorial(10))
+if __name__ == "__main__":
+
+    print(obtenerFactorial(10))

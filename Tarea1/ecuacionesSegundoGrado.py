@@ -23,4 +23,6 @@ def ecuacionSegundoGrado (a, b, c):
             print(x2(a, b , c))
         i+=1
         
-ecuacionSegundoGrado(1, -4, 3)
+if __name__ == "__main__":
+        
+    ecuacionSegundoGrado(1, -4, 3)

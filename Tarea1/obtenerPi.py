@@ -9,4 +9,6 @@ def calcularPi (n):
     resultado = np.sqrt(6*serie)
     return resultado
 
-print(calcularPi(10000000))
+if __name__ == "__main__":
+
+    print(calcularPi(10000000))
