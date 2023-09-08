@@ -12,5 +12,5 @@ def dosMax (numeros):
 
 if __name__ == "__main__":
 
-    numeros=[2000,400,1000,50]
+    numeros=[2000,400,1000,5000]
     print(dosMax(numeros))
