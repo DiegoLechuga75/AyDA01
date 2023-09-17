@@ -6,6 +6,7 @@ def listPermutations(arr):
 
 if __name__ == "__main__":
     
-    elements = ["R1", "R2", "R3", "R4", "R5", "U1", "U2", "U3"]
-    print(listPermutations(elements))
+    elements = ["R", "R", "R", "R", "R", "U", "U", "U"]
+    uniqueElements = set(listPermutations(elements))
+    print(uniqueElements)
     
