@@ -1,4 +1,5 @@
-def ordenamientoSeleccion(arr, size):
+def ordenamientoSeleccion(arr):
+    size = len(arr)
     for i in range(size):
         minI = i
         
@@ -12,5 +13,5 @@ if __name__ == "__main__":
     
     data = [-2, 45, 0, 11, -9]
     size = len(data)
-    ordenamientoSeleccion(data, size)
+    ordenamientoSeleccion(data)
     print(data)

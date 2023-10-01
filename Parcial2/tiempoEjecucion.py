@@ -19,7 +19,7 @@ if __name__ == "__main__":
     archivo.write("N;Tiempo\n")
     lista = crearLista(950000)
     x = 100
-    for i in range(100, 1510, 100):
+    for i in range(100, 15100, 100):
         listaNueva = copy.deepcopy(lista[:x])
         inicioTiempo = time()
         insertionSort.ordenamientoInsercion(listaNueva)

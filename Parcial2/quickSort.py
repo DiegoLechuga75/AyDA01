@@ -1,5 +1,5 @@
 def particion(arr, bajo, alto):
-    
+
     pivote = arr[alto]
     i = bajo - 1
     
@@ -13,6 +13,7 @@ def particion(arr, bajo, alto):
     return i + 1
 
 def quickSort(arr, bajo, alto):
+
     if bajo < alto:
         
         pi = particion(arr, bajo, alto)
