@@ -9,4 +9,4 @@ def sumaCadenas(numeroTexto):
     return suma
 
 if __name__ == "__main__":
-    print(sumaCadenas("723"))
+    print(sumaCadenas("456"))
