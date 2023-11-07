@@ -19,12 +19,6 @@ Q,Boulevard Puerto Aéreo
 R,Gómez Farías
 S,Zaragoza
 T,Pantitlán
-U,Tasqueña
-V,Popotla
-W,Cuitláhuac
-X,Tacuba
-Y,Panteones
-Z,Cuatro Caminos
 AA,Indios Verdes
 AB,Deportivo 18 de Marzo
 AC,Potrero
@@ -58,6 +52,7 @@ BG,Hangares
 BH,Terminal Aérea
 BI,Oceania
 BJ,Aragón
+BK,Eduardo Molina
 BL,Valle Gómez
 BM,Misterios
 BO,Autobuses del Norte
@@ -65,6 +60,7 @@ BP,Instituto del Petróleo
 BQ,Politécnico
 BS,La Villa-Basilísca
 BU,Lindavista
+BV,Vallejo
 BX,Norte 45
 BY,Azcapotzalco
 BZ,Tezozómoc
@@ -145,3 +141,23 @@ FJ,Eje Central
 FK,Parque de los Venados
 FL,Hospital 20 de noviembre
 FM,Insurgentes Sur
+FN,Cuatro Caminos
+FO,Panteones
+FP,Tacuba
+FQ,Cuitlahuac
+FR,Popotla
+FS,Colegio Militar
+FT,Normal
+FU,San Cosme
+FV,Revolución
+FY,Allende
+FZ,Zócalo
+GB,San Antonio Abad
+GD,Viaducto
+GE,Xola
+GF,Villa de Cortés
+GG,Nativitas
+GH,Portales
+GI,Ermita
+GJ,General Anaya
+GK,Tasqueña
